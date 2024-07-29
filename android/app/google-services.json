@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668279663358",
+    "project_id": "yallafix-56511",
+    "storage_bucket": "yallafix-56511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668279663358:android:99e8492b91c44321a853af",
+        "android_client_info": {
+          "package_name": "com.iqonic.servicebooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668279663358-pqihai90luri67v9he0o70vqoah1u7eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL1peTMbYJTJ03UtTcRvVC0Ok6kFEe1HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668279663358-pqihai90luri67v9he0o70vqoah1u7eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
